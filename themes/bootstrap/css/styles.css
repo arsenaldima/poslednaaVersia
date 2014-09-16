@@ -1,0 +1,16 @@
+#page {
+    padding-top: 60px;
+}
+
+.modal_size
+{
+    font-size: 14px;
+    margin-left: 150px;
+    text-align: center;
+
+}
+
+.bord{
+
+    border:5px solid red;
+}
